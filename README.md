@@ -1,5 +1,5 @@
 # Rhythmbox-AlbumArtist-Filter
-This plugin replaces the "Arist" filter with an "Album Artist" filter.
+This plugin replaces the "Artist" filter with an "Album Artist" filter.
 
 # Features
 - Browse by Album Artist instead of track Artist.
