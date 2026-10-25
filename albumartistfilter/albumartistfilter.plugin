@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python3
+Module=albumartistfilter
+IAge=3
+Name=Album Artist Filter
+Description=Browse and filter music by Genre, Album Artist, and Album.
+Authors=Rhythmbox Album Artist Filter contributors
+Copyright=2026
